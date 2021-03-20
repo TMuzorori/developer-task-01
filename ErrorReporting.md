@@ -16,7 +16,20 @@ PartnerCodeValidatorImpl
 issue3=> error calling the super constructor
 
 *solution correct the error by calling the constructor without puting it inside a this()
+
 PartnerCodeValidatorImpl
-issue3=> compilation error, use of persist to save subscriberRequest, a method not available in the subscriberRequestDao
+issue4=> compilation error, use of persist to save subscriberRequest, a method not available in the subscriberRequestDao
 
 *solution => use save
+
+PartnerCodeValidatorImpl
+issue5=> compilation error, use of update to save subscriberRequest, a method not available in the subscriberRequestDao
+
+*solution => use save
+
+PartnerCodeValidatorImpl
+issue6=> compilation error, persit method not found
+issue=> compilation error, update method not found
+
+*solution
+
