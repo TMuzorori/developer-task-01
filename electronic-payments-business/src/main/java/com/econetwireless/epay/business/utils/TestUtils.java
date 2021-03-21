@@ -19,7 +19,7 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 
 public class TestUtils {
-    public static final Double BALANCE = 100.0;
+    public static final Double BALANCE = 1000.0;
     public static final Answer<RequestPartner> REQUEST_PARTNER_ANSWER = new Answer<RequestPartner>() {
         @Override
         public RequestPartner answer(InvocationOnMock invocation) throws Throwable {

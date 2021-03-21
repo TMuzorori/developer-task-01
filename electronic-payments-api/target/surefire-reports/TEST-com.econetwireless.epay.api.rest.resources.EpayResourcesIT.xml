@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="3" failures="0" name="com.econetwireless.epay.api.rest.resources.EpayResourcesIT" time="6.057" errors="0" skipped="0">
+<testsuite tests="3" failures="0" name="com.econetwireless.epay.api.rest.resources.EpayResourcesIT" time="5.772" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib"/>
@@ -64,7 +64,7 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="com.econetwireless.epay.api.rest.resources.EpayResourcesIT" name="shouldReturnStatusOkIfRequestsAreMoreThanOne" time="0.425"/>
-  <testcase classname="com.econetwireless.epay.api.rest.resources.EpayResourcesIT" name="airtimeTopupShouldReturnResponseCodeSUCCESSIfAllOtherSystemsAreUp" time="0.523"/>
-  <testcase classname="com.econetwireless.epay.api.rest.resources.EpayResourcesIT" name="airtimeBalanceEnquiryShouldReturnResponseCodeSUCCESSIfAllOtherSystemsAreUp" time="0.043"/>
+  <testcase classname="com.econetwireless.epay.api.rest.resources.EpayResourcesIT" name="shouldReturnStatusOkIfRequestsAreMoreThanOne" time="0.378"/>
+  <testcase classname="com.econetwireless.epay.api.rest.resources.EpayResourcesIT" name="airtimeTopupShouldReturnResponseCodeSUCCESSIfAllOtherSystemsAreUp" time="0.429"/>
+  <testcase classname="com.econetwireless.epay.api.rest.resources.EpayResourcesIT" name="airtimeBalanceEnquiryShouldReturnResponseCodeSUCCESSIfAllOtherSystemsAreUp" time="0.031"/>
 </testsuite>

@@ -1444,3 +1444,14 @@ Caused by: com.sun.xml.internal.ws.fault.ServerSOAPFaultException: Client receiv
 2021-03-21 23:12:36 INFO  EnquiriesServiceImpl:33 --> Enquire airtime balance :: Partner Code : hot-recharge, Msisdn : 263774222278
 2021-03-21 23:12:36 INFO  EnquiriesServiceImpl:44 --> Finished balance enquiry :: Msisdn : 263774222278, response code : 200
 2021-03-21 23:12:36 INFO  RequestInterceptor:86 --> [[SUCCESS] ] IN Enquire Airtime Balance Response :: Partner Code : hot-recharge, Mobile Number : 774222278, Response Code : 200, Narrative : Successful balance enquiry
+2021-03-21 23:27:46 INFO  IntegrationsConfig:44 --> intelligentNetworkService URL : jar:file:/Users/timothymuzorori/developer-task-01/electronic-payments-business/target/electronic-payments-business-1.0.0.jar!/wsdls/IntelligentNetworkService.wsdl
+2021-03-21 23:27:48 INFO  RequestInterceptor:37 --> IN Get Partner Transactions :: Partner Code : hot-recharge
+2021-03-21 23:27:48 INFO  RequestInterceptor:56 --> [[SUCCESS] ] IN Get Partner Transactions Response :: Partner Code : hot-recharge, Response Code : 200, Narrative : Successful search
+2021-03-21 23:27:49 INFO  RequestInterceptor:96 --> IN ECredit Airtime :: Partner Code : hot-recharge, Mobile Number : hot-recharge
+2021-03-21 23:27:49 INFO  CreditsServiceImpl:35 --> Credit airtime Request : AirtimeTopupRequest{partnerCode='hot-recharge', msisdn='263773303584', amount=2.73, referenceNumber='TOPUP-REF-0123'}
+2021-03-21 23:27:49 INFO  CreditsServiceImpl:46 --> Finished Airtime Credit :: Msisdn : 263773303584, response code : 200
+2021-03-21 23:27:49 INFO  RequestInterceptor:114 --> [[SUCCESS] ] IN Airtime Credit Response :: Partner Code : hot-recharge, Mobile Number : hot-recharge, Response Code : 200, Narrative : Successful credit request
+2021-03-21 23:27:49 INFO  RequestInterceptor:67 --> IN Enquire Airtime Balance :: Partner Code : hot-recharge, Mobile Number : 774222278
+2021-03-21 23:27:49 INFO  EnquiriesServiceImpl:33 --> Enquire airtime balance :: Partner Code : hot-recharge, Msisdn : 263774222278
+2021-03-21 23:27:49 INFO  EnquiriesServiceImpl:44 --> Finished balance enquiry :: Msisdn : 263774222278, response code : 200
+2021-03-21 23:27:49 INFO  RequestInterceptor:86 --> [[SUCCESS] ] IN Enquire Airtime Balance Response :: Partner Code : hot-recharge, Mobile Number : 774222278, Response Code : 200, Narrative : Successful balance enquiry
