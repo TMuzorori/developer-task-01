@@ -33,3 +33,9 @@ issue=> compilation error, update method not found
 
 *solution
 
+electronic-payments-api
+log4j2.xml Error
+Error1: log path error
+Solution: change path to data/logs/electronic-payments-api
+Added @Autowired annotation in the EpayResource for EpayRequestProcessor and the  ReportingProcessor
+
