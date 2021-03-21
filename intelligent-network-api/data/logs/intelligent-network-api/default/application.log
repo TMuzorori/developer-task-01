@@ -4,3 +4,24 @@
 2021-03-21 20:08:57 INFO  IntelligentNetworkPublisher:24 --> Finished publishing WS
 2021-03-21 20:09:56 INFO  IntelligentNetworkServiceImpl:42 --> Msisdn : 263774222278, Balance : 72.0
 2021-03-21 20:11:44 INFO  IntelligentNetworkServiceImpl:42 --> Msisdn : 263774222278, Balance : 662.0
+2021-03-21 20:41:42 INFO  IntelligentNetworkPublisher:22 --> Starting Intelligent network service....
+2021-03-21 20:41:43 INFO  IntelligentNetworkPublisher:24 --> Finished publishing WS
+2021-03-21 20:45:43 INFO  IntelligentNetworkServiceImpl:42 --> Msisdn : 263774222278, Balance : 6.0
+2021-03-21 20:49:23 INFO  IntelligentNetworkPublisher:22 --> Starting Intelligent network service....
+2021-03-21 20:49:24 INFO  IntelligentNetworkPublisher:24 --> Finished publishing WS
+2021-03-21 20:54:30 INFO  IntelligentNetworkServiceImpl:42 --> Msisdn : 263774222278, Balance : 6.0
+2021-03-21 21:09:38 INFO  IntelligentNetworkServiceImpl:42 --> Msisdn : 263774222278, Balance : 987.0
+2021-03-21 21:51:12 INFO  IntelligentNetworkServiceImpl:42 --> Msisdn : 263774222278, Balance : 62.0
+2021-03-21 22:18:07 INFO  IntelligentNetworkPublisher:22 --> Starting Intelligent network service....
+2021-03-21 22:18:08 INFO  IntelligentNetworkPublisher:24 --> Finished publishing WS
+2021-03-21 22:31:51 INFO  IntelligentNetworkPublisher:22 --> Starting Intelligent network service....
+2021-03-21 22:31:53 INFO  IntelligentNetworkPublisher:24 --> Finished publishing WS
+2021-03-21 22:32:45 INFO  IntelligentNetworkServiceImpl:42 --> Msisdn : 263774222278, Balance : 77.0
+2021-03-21 22:39:18 INFO  IntelligentNetworkServiceImpl:42 --> Msisdn : 263774222278, Balance : 9.0
+2021-03-21 22:44:38 INFO  IntelligentNetworkServiceImpl:42 --> Msisdn : 263774222278, Balance : 5.0
+2021-03-21 22:46:59 INFO  IntelligentNetworkServiceImpl:42 --> Msisdn : 263774222278, Balance : 86.0
+2021-03-21 23:00:08 INFO  IntelligentNetworkPublisher:22 --> Starting Intelligent network service....
+2021-03-21 23:00:09 INFO  IntelligentNetworkPublisher:24 --> Finished publishing WS
+2021-03-21 23:11:53 INFO  IntelligentNetworkPublisher:22 --> Starting Intelligent network service....
+2021-03-21 23:11:55 INFO  IntelligentNetworkPublisher:24 --> Finished publishing WS
+2021-03-21 23:12:36 INFO  IntelligentNetworkServiceImpl:42 --> Msisdn : 263774222278, Balance : 245.0
